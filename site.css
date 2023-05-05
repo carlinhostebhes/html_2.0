@@ -1,0 +1,53 @@
+body {
+    background: #180103;
+}
+#dvg{color:rgb( 255, 255, 255)}
+#mn{
+    width: 100%;
+}
+ #imagemtetlamt{
+width: 100%; 
+
+ } 
+ #Title { 
+    text-align: center;
+    font-size: 45px ;
+    color:rgb(255, 255, 255)
+}
+#primeiro{ 
+    text-align: center;
+    font-size: 150%;
+color:rgb(231, 231, 231)
+}
+#segundo{ 
+    text-align: center;
+    font-size: 150%;
+    color:rgb(231, 231, 231)
+}
+#terceiro{ 
+    text-align: center;
+    font-size: 150%;
+    color:rgb(231, 231, 231)
+}
+#mariaideias{ 
+    font-size: 45px ;
+    color:rgb(255, 227, 227)
+}
+#idea1{ 
+    font-style: italic;
+    font-size: 30px ;
+    color:rgb(255, 255, 255)
+    
+}
+#bestsactor{
+    background:#0f0002;
+}
+#critic{
+background:#180205;
+}
+#mfilme{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 300%;
+    color:rgb(231, 231, 231)
+    
+}
